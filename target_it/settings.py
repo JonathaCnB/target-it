@@ -26,6 +26,7 @@ INSTALLED_APPS = [
     "rest_framework",
     "rest_framework_simplejwt",
     "corsheaders",
+    "localflavor",
     # LocalApps
     "users.apps.UsersConfig",
 ]
